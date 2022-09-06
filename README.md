@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋! My name is Allana and I'm a developer, from Brazil.</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&username=allanabernardino" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=allanabernardino" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="155" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif"  />
 
 ###
